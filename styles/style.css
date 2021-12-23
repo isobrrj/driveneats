@@ -7,7 +7,7 @@ header{
     color: #FFFFFF;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
-    position: fixed;
+    position: relative;
     top: 0;
 }
 
@@ -39,8 +39,8 @@ main{
 main section{
     width: 98%;
     position: relative;
-    top: 140px;
-    z-index: -1;
+    /* top: 140px; */
+    /* z-index: -1;  */
 
     margin: 0 auto;
 
